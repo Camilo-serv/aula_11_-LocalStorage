@@ -1,0 +1,26 @@
+{
+    "nome": "Aula 11: Usando LocalStorage e SessionStorage com javascript",
+    "academico":{
+        "curso": "Autoração Multimídia II",
+        "cursoIcone": "layout/icones/banner_henrique.svg",
+        "disciplina":"",
+        "responsavel": "Professor Wellington Sarmento / Professor Mauro Pequeno / Professor Henrique Sergio"
+    },
+     "topicos": [        
+        {
+            "nome": "Tópico 01: Criando persistência de forma local em uma aplicação javascript",
+            "local": "topicos/01.html",
+            "audio": "audios/01.mp3",
+            "default": true
+        }
+    ],
+    "pdf": "pdf/AutoracaoMultimidiaII_aula_11.pdf",
+    "audio": "audios/AutoracaoMultimidiaII_aula_11.mp3",    
+    "tema":{
+      "primario": "purple-900",
+      "contraste": "orange"
+    },
+    "imported_styles":[
+        "custom.css"
+    ]
+}
